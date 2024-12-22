@@ -172,7 +172,7 @@ const yoKaiList = [
 { name: "Bicorniot", img: "multiniche.png" },
 { name: "Cerbébert", img: "ser_bero.png" },
 { name: "Humidon", img: "goto.png" },
-{ name: "Déluijen", img: "sirimiri.png" },
+{ name: "Délujien", img: "sirimiri.png" },
 { name: "Fryzeur", img: "copo.png" },
 { name: "Kongel", img: "ventisquero.png" },
 { name: "Hémorhino", img: "coagulon.png" },
